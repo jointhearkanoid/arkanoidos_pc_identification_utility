@@ -81,5 +81,3 @@ El archivo generado (`Especificaciones_Sistema_YYYYMMDD_HHMMSS.json`) mantiene c
    ```
 
 3. El archivo JSON resultante se guardará en la misma carpeta del script. Carga su contenido en el **Centro de Descargas de ArkanoidOS** para recibir la recomendación óptima.
-# arkanoidos_pc_identification_utility
-Source code for the official ArkanoidOS PC Identification Utility tool, necessary to provide custom Downloads recommendations inside the ArkanoidOS Download Center page.
